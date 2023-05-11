@@ -13,6 +13,8 @@
 
 ## Running
 
+- Create jenkins/jenkins-admin-password.txt before run docker-compose
+
 ```
 docker-compose up -d --build --remove-orphans
 ```
